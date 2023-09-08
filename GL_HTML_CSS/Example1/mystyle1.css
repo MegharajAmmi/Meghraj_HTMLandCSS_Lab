@@ -14,7 +14,7 @@ header {
 
 /* Style for the navigation menu */
 nav {
-    background-color: #444;
+    background-color: #a05050;
     text-align: center;
 }
 
@@ -43,7 +43,7 @@ nav a {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #444;
+    background-color: #49487c;
     min-width: 150px;
     text-align: left;
     z-index: 1;
@@ -61,5 +61,5 @@ nav a {
 }
 
 .dropdown-content a:hover {
-    background-color: #555;
+    background-color: #965d5d;
 }
